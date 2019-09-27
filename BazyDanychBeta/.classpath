@@ -6,4 +6,5 @@
 	<classpathentry exported="true" kind="lib" path="/media/booob/Poolybood1/Java/JayBird/jaybird-2.2.3.jar"/>
 	<classpathentry exported="true" kind="lib" path="/media/booob/Poolybood1/Java/mail.jar"/>
 	<classpathentry kind="output" path="bin"/>
+	<classpathentry kind="output" path="bin"/>
 </classpath>
